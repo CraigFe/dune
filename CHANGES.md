@@ -30,6 +30,8 @@ unreleased
   one from [this paper](https://doi.org/10.1145/2756553) (#1489,
   @rudihorn)
 
+- Add `--trace-file` option to trace dune internals (#1639, fix #1180, @emillon)
+
 1.6.2 (05/12/2018)
 ------------------
 
